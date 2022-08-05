@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.buttons{
+    background-color: #e3e0e0;
+}
+.btn{
+    border: none;
+}
+.paragraph{
+    background-color: aquamarine;
+}
+.btn:focus{
+    background-color:rgb(201, 193, 193) !important;
+    border-radius: 0px !important;
+}
